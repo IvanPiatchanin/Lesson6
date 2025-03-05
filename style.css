@@ -1,3 +1,7 @@
-a{
-    #FFFFFF, #2196F3, #2F303A, #757575, #212121
+a[href^="https"] {
+    color: red;
+}
+
+ul + p {
+    font-size: 24px;
 }
